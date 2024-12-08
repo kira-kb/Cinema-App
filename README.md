@@ -1,3 +1,3 @@
 # React + Typescript
 
-<a href="https://kiraps.netlify.app/">Goto App</a>
+<a href="https://kira-cinema-app.netlify.app/">Goto App</a>
